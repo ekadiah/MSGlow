@@ -1,0 +1,21 @@
+{
+    "treatment" :[{
+        "nama" : "Botox",
+        "Desc" : "Tindakan untuk wajah yang sudah mengalami tanda-tanda kerutan pada dahi, Botox bekerja dengan memblokir aktivitas saraf pada otot, sebagai akibatnya otot akan menurun sementara waktu"
+    },{
+        "nama" : "Dermal Filler",
+        "Desc" : "Meningkatkan volume kulitmu, menghaluskan kerutan, dan mengisi area dangkal pada wajah. Dengan bahan yang aman diserap oleh tubuh"
+    },{
+        "nama" : "Laser New Skin Ultimate",
+        "Desc" : "Dengan panjang gelombang yang tepat dapat memecah melanin sehingga noda dan flek pada wajah dapat hilang"
+    },{
+        "nama" : "MMFU Ultraformer III",
+        "Desc" : "MMFU Ultraformer III terdapat 4 variasi yaitu v-shape face, upper face, lower face, dan body shaping. Dengan meliliskan lemak berlebih dengan prosedur tanpa bedah dan pemulihan yang lebih singkat "
+    },{
+        "nama" : "Vampire Theraphy",
+        "Desc" : "Treatment ini dapat memperbaiki tekstur scar, meratakan warna kulit dan mengurangi ukuran pori-pori"
+    },{
+        "nama" : "Caviar Oxygen Ceuticals",
+        "Desc" : "Treatment ini bermanfaat untuk memperlambat proses penuaan, mengencangkan dan menghidrasi kulit dan merangsang produksi kolagen yang lebih baik"
+    }]
+}
